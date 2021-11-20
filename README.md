@@ -1,2 +1,2 @@
 # sitegithub
-our sitegithum repository
+our sitegithub repository
